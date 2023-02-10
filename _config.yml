@@ -62,7 +62,7 @@ author:
   name   : "Ian Magnusson"
   avatar : "/assets/images/bio-photo.jpg"
   location : "Seattle, WA"
-  bio    : "Predoctoral researcher on the AllenNLP team at AI2. Working on domain adaptation, reproducibility, and evaluation in NLP."
+  bio    : "predoctoral researcher on the AllenNLP team at AI2"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -74,7 +74,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/IanMagnusson"
     - label: "Semantic Scholar"
-      icon: "ai ai-semantic-scholar"
+      icon: "fas fa-book-open"
       url: "https://www.semanticscholar.org/author/Ian-H.-Magnusson/2124977543"
 
 footer:
@@ -86,7 +86,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/IanMagnusson"
     - label: "Semantic Scholar"
-      icon: "ai ai-semantic-scholar"
+      icon: "fas fa-book-open"
       url: "https://www.semanticscholar.org/author/Ian-H.-Magnusson/2124977543"
 
 defaults:
