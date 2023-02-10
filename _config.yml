@@ -62,7 +62,7 @@ author:
   name   : "Ian Magnusson"
   avatar : "/assets/images/bio-photo.jpg"
   location : "Seattle, WA"
-  bio    : "Ian Magnusson is a Predoctoral Young Investigator on the AllenNLP team. He holds a BA in cultural anthropology from Bard College and an MS in computer science from Northeastern University. His research interests include advancing reproducibility and evaluation in NLP as well as improving the understanding of textual domains to make robust and efficient language models. Outside of work, Ian enjoys meditation, woods skiing, and reading science fiction with his book club."
+  bio    : "Predoctoral researcher on the AllenNLP team at AI2. Working on domain adaptation, reproducibility, and evaluation in NLP."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
