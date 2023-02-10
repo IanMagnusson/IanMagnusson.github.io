@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ian Magnusson (Under Construction)
+title: Ian Magnusson
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -58,34 +58,35 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Ian Magnusson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  location : "Seattle, WA"
+  bio    : "Ian Magnusson is a Predoctoral Young Investigator on the AllenNLP team. He holds a BA in cultural anthropology from Bard College and an MS in computer science from Northeastern University. His research interests include advancing reproducibility and evaluation in NLP as well as improving the understanding of textual domains to make robust and efficient language models. Outside of work, Ian enjoys meditation, woods skiing, and reading science fiction with his book club."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/IanMagnusson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/IanMagnusson"
+    - label: "Semantic Scholar"
+      icon: "ai ai-semantic-scholar"
+      url: "https://www.semanticscholar.org/author/Ian-H.-Magnusson/2124977543"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/IanMagnusson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/IanMagnusson"
+    - label: "Semantic Scholar"
+      icon: "ai ai-semantic-scholar"
+      url: "https://www.semanticscholar.org/author/Ian-H.-Magnusson/2124977543"
 
 defaults:
   # _posts
