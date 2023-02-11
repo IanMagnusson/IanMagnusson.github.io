@@ -94,7 +94,18 @@ footer:
       url: "https://www.semanticscholar.org/author/Ian-H.-Magnusson/2124977543"
 
 defaults:
-  _pages
+  # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  # _pages
   - scope:
       path: "_pages"
       type: pages
