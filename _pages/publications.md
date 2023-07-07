@@ -8,7 +8,7 @@ author_profile: true
 comments: true
 ---
 
-##
+## 2023
 <br>*Reproducibility in NLP: What Have We Learned from the Checklist?*
 <br><sub>**Ian Magnusson**, Noah A. Smith, Jesse Dodge</sub>
 <br><sub> Findings of ACL 2023 // [[paper](https://arxiv.org/abs/2306.09562)] </sub>
