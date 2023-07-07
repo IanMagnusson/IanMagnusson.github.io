@@ -8,6 +8,11 @@ author_profile: true
 comments: true
 ---
 
+##
+<br>*Reproducibility in NLP: What Have We Learned from the Checklist?*
+<br><sub>**Ian Magnusson**, Noah A. Smith, Jesse Dodge</sub>
+<br><sub> Findings of ACL 2023 // [[paper](https://arxiv.org/abs/2306.09562)] </sub>
+
 ## 2022
 
 <br>*Exploring The Landscape of Distributional Robustness for Question Answering Models*
