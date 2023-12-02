@@ -9,9 +9,10 @@ comments: true
 ---
 
 ## 2023
+
 <br>*What's In My Big Data?*
 <br><sub>Yanai Elazar, Akshita Bhagia, **Ian Magnusson**, Abhilasha Ravichander, Dustin Schwenk, Alane Suhr, Pete Walsh, Dirk Groeneveld, Luca Soldaini, Sameer Singh, Hanna Hajishirzi, Noah A. Smith, Jesse Dodge</sub>
-<br><sub> arxiv // [[paper](https://arxiv.org/abs/2310.20707)] [[code](https://github.com/allenai/wimbd)] [[press](https://www.marktechpost.com/2023/11/05/peeking-inside-pandoras-box-unveiling-the-hidden-complexities-of-language-model-datasets-with-whats-in-my-big-data-wimbd/)] </sub>
+<br><sub> arxiv // [[paper](_data/wimbd.pdf)] [[code](https://github.com/allenai/wimbd)] [[demo](https://wimbd.apps.allenai.org)] [[press](https://www.marktechpost.com/2023/11/05/peeking-inside-pandoras-box-unveiling-the-hidden-complexities-of-language-model-datasets-with-whats-in-my-big-data-wimbd/)] </sub>
 
 <br>*Reproducibility in NLP: What Have We Learned from the Checklist?*
 <br><sub>**Ian Magnusson**, Noah A. Smith, Jesse Dodge</sub>
