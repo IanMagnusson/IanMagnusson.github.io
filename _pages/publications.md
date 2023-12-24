@@ -10,6 +10,18 @@ comments: true
 
 ## 2023
 
+<br>*Paloma: A Benchmark for Evaluating Language Model Fit*
+<br><sub>**Ian Magnusson**, Akshita Bhagia, Valentin Hofmann, Luca Soldaini, Ananya Harsh Jha, Oyvind Tafjord, Dustin Schwenk, Evan Pete Walsh, Yanai Elazar, Kyle Lo, Dirk Groeneveld, Iz Beltagy,
+Hannaneh Hajishirzi, Noah A. Smith, Kyle Richardson, Jesse Dodge</sub>
+<br><sub> arxiv  // [[paper](https://arxiv.org/abs/2312.10523)] [[data](https://huggingface.co/datasets/allenai/paloma)] [[code](https://github.com/allenai/ai2-olmo-eval/blob/main/paloma/README.md)] [[models](https://huggingface.co/collections/allenai/paloma-6580bf704daa78a2f2668838)]</sub>
+
+<br>*Catwalk: A Unified Language Model Evaluation Framework for Many Datasets*
+<br><sub>Dirk Groeneveld, Anas Awadalla, Iz Beltagy, Akshita Bhagia,
+**Ian Magnusson**,
+Hao Peng, Oyvind Tafjord, Pete Walsh, Kyle Richardson, Jesse Dodge</sub>
+<br><sub> arxiv  // [[paper](https://arxiv.org/abs/2312.10253)] [[code](https://github.com/allenai/catwalk)] </sub>
+
+
 <br>*What's In My Big Data?*
 <br><sub>Yanai Elazar, Akshita Bhagia, **Ian Magnusson**, Abhilasha Ravichander, Dustin Schwenk, Alane Suhr, Pete Walsh, Dirk Groeneveld, Luca Soldaini, Sameer Singh, Hanna Hajishirzi, Noah A. Smith, Jesse Dodge</sub>
 <br><sub> arxiv // [[paper](https://arxiv.org/abs/2310.20707)] [[code](https://github.com/allenai/wimbd)] [[demo](https://wimbd.apps.allenai.org)] [[press](https://www.marktechpost.com/2023/11/05/peeking-inside-pandoras-box-unveiling-the-hidden-complexities-of-language-model-datasets-with-whats-in-my-big-data-wimbd/)] </sub>
@@ -26,7 +38,7 @@ comments: true
 
 <br>*Just-DREAM-about-it: Figurative Language Understanding with DREAM-FLUTE*
 <br><sub>Yuling Gu, Yao Fu, Valentina Pyatkin, **Ian Magnusson**, Bhavana Dalvi, Peter Clark</sub>
-<br><sub> FigLang Workshop, EMNLP 2022 // [[paper](https://arxiv.org/pdf/2210.16407)] [[code](https://github.com/allenai/dream)]</sub> 
+<br><sub> FigLang Workshop, EMNLP 2022 // [[paper](https://aclanthology.org/2022.flp-1.12.pdf)] [[code](https://github.com/allenai/dream)]</sub> 
 
 <br>*Towards a Multi-Entity Aspect-Based Sentiment Analysis for Characterizing Directed Social Regard in Online Messaging*
 <br><sub>Joan Zheng, Scott Friedman, Sonja Schmer-Galunder, **Ian Magnusson**, Ruta Wheelock, Jeremy Gottlieb, Diana Gomez, and Chris Miller</sub>
