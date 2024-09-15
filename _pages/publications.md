@@ -11,11 +11,19 @@ comments: true
 
 <br>*OLMo: Accelerating the Science of Language Models*
 <br><sub>Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, **Ian Magnusson**, Yizhong Wang, Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan, Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E. Peters, Valentina Pyatkin, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah, Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi, Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca Soldaini, Noah A. Smith, Hannaneh Hajishirzi</sub>
-<br><sub> In preparation  // [[paper](https://arxiv.org/abs/2402.00838)] [[model](https://huggingface.co/allenai/OLMo-7B)] [[code](https://github.com/allenai/olmo)] [[blog](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580)] [[press](https://www.axios.com/2024/02/01/allen-institute-for-ai-fully-open-source-large-language-model-olmo-7b)]</sub>
+<br><sub> ACL 2024 // [[paper](https://arxiv.org/abs/2402.00838)] [[model](https://huggingface.co/allenai/OLMo-7B)] [[code](https://github.com/allenai/olmo)] [[blog](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580)] [[press](https://www.axios.com/2024/02/01/allen-institute-for-ai-fully-open-source-large-language-model-olmo-7b)]</sub>
+<br><sub>[![Best Resource Paper Award](https://img.shields.io/badge/Best%20Resource%20Paper%20Award-%F0%9F%8F%86-ADD8E6)](https://x.com/aclmeeting/status/1823664612677705762)</sub>
 
 <br>*Dolma: An Open Corpus of Three Trillion Tokens for Language Model Pretraining Research*
 <br><sub>Luca Soldaini, Rodney Kinney, Akshita Bhagia, Dustin Schwenk, David Atkinson, Russell Authur, Ben Bogin, Khyathi Chandu, Jennifer Dumas, Yanai Elazar, Valentin Hofmann, Ananya Harsh Jha, Sachin Kumar, Li Lucy, Xinxi Lyu, Nathan Lambert, **Ian Magnusson**, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E. Peters, Abhilasha Ravichander, Kyle Richardson, Zejiang Shen, Emma Strubell, Nishant Subramani, Oyvind Tafjord, Evan Pete Walsh, Luke Zettlemoyer, Noah A. Smith, Hannaneh Hajishirzi, Iz Beltagy, Dirk Groeneveld, Jesse Dodge, Kyle Lo</sub>
-<br><sub> In preparation  // [[paper](https://arxiv.org/abs/2402.00159)] [[data](https://huggingface.co/datasets/allenai/dolma#:~:text=Dolma%20is%20a%20dataset%20of,as%20a%20medium%20risk%20artifact.)] [[code](https://github.com/allenai/dolma)] [[blog](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64)] [[press](https://techcrunch.com/2023/08/18/ai2-drops-biggest-open-dataset-yet-for-training-language-models/)]</sub>
+<br><sub> ACL 2024  // [[paper](https://arxiv.org/abs/2402.00159)] [[data](https://huggingface.co/datasets/allenai/dolma#:~:text=Dolma%20is%20a%20dataset%20of,as%20a%20medium%20risk%20artifact.)] [[code](https://github.com/allenai/dolma)] [[blog](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64)] [[press](https://techcrunch.com/2023/08/18/ai2-drops-biggest-open-dataset-yet-for-training-language-models/)]</sub>
+<br><sub>[![Best Resource Paper Award](https://img.shields.io/badge/Best%20Resource%20Paper%20Award-%F0%9F%8F%86-ADD8E6)](https://x.com/aclmeeting/status/1823664612577051026)</sub>
+
+<br>*What's In My Big Data?*
+<br><sub>Yanai Elazar, Akshita Bhagia, **Ian Magnusson**, Abhilasha Ravichander, Dustin Schwenk, Alane Suhr, Pete Walsh, Dirk Groeneveld, Luca Soldaini, Sameer Singh, Hanna Hajishirzi, Noah A. Smith, Jesse Dodge</sub>
+<br><sub> ICLR 2024 // [[paper](https://arxiv.org/abs/2310.20707)] [[code](https://github.com/allenai/wimbd)] [[demo](https://wimbd.apps.allenai.org)] [[press](https://www.marktechpost.com/2023/11/05/peeking-inside-pandoras-box-unveiling-the-hidden-complexities-of-language-model-datasets-with-whats-in-my-big-data-wimbd/)] </sub>
+<br><sub>[![Spotlight](https://img.shields.io/badge/Spotlight-%F0%9F%8F%86-ADD8E6)](
+https://iclr.cc/virtual/2024/events/spotlight-posters)</sub>
 
 ## 2023
 
@@ -30,10 +38,6 @@ Hannaneh Hajishirzi, Noah A. Smith, Kyle Richardson, Jesse Dodge</sub>
 Hao Peng, Oyvind Tafjord, Pete Walsh, Kyle Richardson, Jesse Dodge</sub>
 <br><sub> arxiv  // [[paper](https://arxiv.org/abs/2312.10253)] [[code](https://github.com/allenai/catwalk)] </sub>
 
-
-<br>*What's In My Big Data?*
-<br><sub>Yanai Elazar, Akshita Bhagia, **Ian Magnusson**, Abhilasha Ravichander, Dustin Schwenk, Alane Suhr, Pete Walsh, Dirk Groeneveld, Luca Soldaini, Sameer Singh, Hanna Hajishirzi, Noah A. Smith, Jesse Dodge</sub>
-<br><sub> arxiv // [[paper](https://arxiv.org/abs/2310.20707)] [[code](https://github.com/allenai/wimbd)] [[demo](https://wimbd.apps.allenai.org)] [[press](https://www.marktechpost.com/2023/11/05/peeking-inside-pandoras-box-unveiling-the-hidden-complexities-of-language-model-datasets-with-whats-in-my-big-data-wimbd/)] </sub>
 
 <br>*Reproducibility in NLP: What Have We Learned from the Checklist?*
 <br><sub>**Ian Magnusson**, Noah A. Smith, Jesse Dodge</sub>
