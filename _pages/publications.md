@@ -9,6 +9,16 @@ comments: true
 ---
 ## 2024
 
+<br>*Paloma: A Benchmark for Evaluating Language Model Fit*
+<br><sub>**Ian Magnusson**, Akshita Bhagia, Valentin Hofmann, Luca Soldaini, Ananya Harsh Jha, Oyvind Tafjord, Dustin Schwenk, Evan Pete Walsh, Yanai Elazar, Kyle Lo, Dirk Groeneveld, Iz Beltagy,
+Hannaneh Hajishirzi, Noah A. Smith, Kyle Richardson, Jesse Dodge</sub>
+<br><sub> NeurIPS 2024  // [[paper](https://arxiv.org/abs/2312.10523)] [[data](https://huggingface.co/datasets/allenai/paloma)] [[code](https://github.com/allenai/ai2-olmo-eval/blob/main/paloma/README.md)] [[models](https://huggingface.co/collections/allenai/paloma-6580bf704daa78a2f2668838)]</sub>
+
+<br><em>Scalable Data Ablation Approximations for Language Models through Modular Training and Merging</em>
+<br><sub>Clara Na, **Ian Magnusson**, Ananya Harsh Jha, Tom Sherborne, Emma Strubell, Jesse Dodge, Pradeep Dasigi</sub>
+<br><sub> EMNLP 2024  // <a href="http://arxiv.org/abs/2410.15661">[paper]</a></sub>
+
+
 <br>*OLMo: Accelerating the Science of Language Models*
 <br><sub>Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, **Ian Magnusson**, Yizhong Wang, Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan, Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E. Peters, Valentina Pyatkin, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah, Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi, Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca Soldaini, Noah A. Smith, Hannaneh Hajishirzi</sub>
 <br><sub> ACL 2024 // [[paper](https://arxiv.org/abs/2402.00838)] [[model](https://huggingface.co/allenai/OLMo-7B)] [[code](https://github.com/allenai/olmo)] [[blog](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580)] [[press](https://www.axios.com/2024/02/01/allen-institute-for-ai-fully-open-source-large-language-model-olmo-7b)]</sub>
@@ -26,11 +36,6 @@ comments: true
 https://iclr.cc/virtual/2024/events/spotlight-posters)</sub>
 
 ## 2023
-
-<br>*Paloma: A Benchmark for Evaluating Language Model Fit*
-<br><sub>**Ian Magnusson**, Akshita Bhagia, Valentin Hofmann, Luca Soldaini, Ananya Harsh Jha, Oyvind Tafjord, Dustin Schwenk, Evan Pete Walsh, Yanai Elazar, Kyle Lo, Dirk Groeneveld, Iz Beltagy,
-Hannaneh Hajishirzi, Noah A. Smith, Kyle Richardson, Jesse Dodge</sub>
-<br><sub> arxiv  // [[paper](https://arxiv.org/abs/2312.10523)] [[data](https://huggingface.co/datasets/allenai/paloma)] [[code](https://github.com/allenai/ai2-olmo-eval/blob/main/paloma/README.md)] [[models](https://huggingface.co/collections/allenai/paloma-6580bf704daa78a2f2668838)]</sub>
 
 <br>*Catwalk: A Unified Language Model Evaluation Framework for Many Datasets*
 <br><sub>Dirk Groeneveld, Anas Awadalla, Iz Beltagy, Akshita Bhagia,
