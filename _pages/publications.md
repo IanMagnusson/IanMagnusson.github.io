@@ -10,7 +10,7 @@ comments: true
 ## 2025
 <br><em>DataDecide: How to Predict Best Pretraining Data with Small Experiments</em>
 <br><sub><strong>Ian Magnusson</strong>, Nguyen Tai, Ben Bogin, David Heineman, Jena D. Hwang, Luca Soldaini, Akshita Bhagia, Jiacheng Liu, Dirk Groeneveld, Oyvind Tafjord, Noah A. Smith, Pang Wei Koh, Jesse Dodge</sub>
-<br><sub> ICML 2025  // <a href="https://arxiv.org/abs/2504.11393">[paper]</a> <a href="https://huggingface.co/datasets/allenai/DataDecide-data-recipes">[data]</a> <a href="https://huggingface.co/datasets/allenai/DataDecide-eval-results">[evals]</a> <a href="https://github.com/allenai/DataDecide">[code]</a> <a href="https://huggingface.co/collections/allenai/datadecide-67edb1d2bacba40b5d3ed633">[models]</a><a href="https://www.marktechpost.com/2025/04/16/model-performance-begins-with-data-researchers-from-ai2-release-datadecide-a-benchmark-suite-to-understand-pretraining-data-impact-across-30k-llm-checkpoints/">[press]</a></sub>
+<br><sub> ICML 2025  // <a href="https://arxiv.org/abs/2504.11393">[paper]</a> <a href="https://huggingface.co/datasets/allenai/DataDecide-data-recipes">[data]</a> <a href="https://huggingface.co/datasets/allenai/DataDecide-eval-results">[evals]</a> <a href="https://github.com/allenai/DataDecide">[code]</a> <a href="https://huggingface.co/collections/allenai/datadecide-67edb1d2bacba40b5d3ed633">[models]</a> <a href="https://www.marktechpost.com/2025/04/16/model-performance-begins-with-data-researchers-from-ai2-release-datadecide-a-benchmark-suite-to-understand-pretraining-data-impact-across-30k-llm-checkpoints/">[press]</a></sub>
 
 
 ## 2024
