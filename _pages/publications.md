@@ -15,12 +15,12 @@ comments: true
 <br><em>Signal and Noise: A Framework for Reducing Uncertainty in Language Model Evaluation</em>
 <br><sub>David Heineman, Valentin Hofmann, <strong>Ian Magnusson</strong>, Yuling Gu, Noah A. Smith, Hannaneh Hajishirzi, Kyle Lo, Jesse Dodge</sub>
 <br><sub> NeurIPS 2025 // <a href="https://arxiv.org/abs/2508.13144">[paper]</a> <a href="https://github.com/allenai/signal-and-noise">[code]</a> <a href="https://huggingface.co/datasets/allenai/signal-and-noise">[data]</a></sub>
-<br><sub><strong>Spotlight (top 5%)</strong></sub>
+<br><sub>[![Spotlight](https://img.shields.io/badge/Spotlight-%F0%9F%8F%86-ADD8E6)](https://arxiv.org/abs/2508.13144) (top 5%)</sub>
 
 <br><em>Fluid Language Model Benchmarking</em>
 <br><sub>Valentin Hofmann, David Heineman, <strong>Ian Magnusson</strong>, Kyle Lo, Jesse Dodge, Maarten Sap, Pang Wei Koh, Chun Wang, Hannaneh Hajishirzi, Noah A. Smith</sub>
 <br><sub> COLM 2025 // <a href="https://arxiv.org/abs/2509.11106">[paper]</a> <a href="https://github.com/allenai/fluid-benchmarking">[code]</a> <a href="https://huggingface.co/datasets/allenai/fluid-benchmarking">[data]</a> <a href="https://allenai.org/blog/fluid-benchmarking">[blog]</a></sub>
-<br><sub><strong>Oral (top 5%)</strong></sub>
+<br><sub>[![Oral](https://img.shields.io/badge/Oral-%F0%9F%8F%86-ADD8E6)](https://arxiv.org/abs/2509.11106) (top 5%)</sub>
 
 <br><em>DataDecide: How to Predict Best Pretraining Data with Small Experiments</em>
 <br><sub><strong>Ian Magnusson</strong>, Nguyen Tai, Ben Bogin, David Heineman, Jena D. Hwang, Luca Soldaini, Akshita Bhagia, Jiacheng Liu, Dirk Groeneveld, Oyvind Tafjord, Noah A. Smith, Pang Wei Koh, Jesse Dodge</sub>
