@@ -65,7 +65,7 @@ whitelist:
 
 author:
   name   : "Ian Magnusson"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   location : "Seattle, WA"
   bio    : "AI research at University of Washington"
   links:
