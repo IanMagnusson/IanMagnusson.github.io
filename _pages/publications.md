@@ -7,6 +7,12 @@ permalink: /publications/
 author_profile: true
 comments: true
 ---
+## 2026
+
+<br><em>The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation</em>
+<br><sub><strong>Ian Magnusson</strong>, Noah A. Smith, Pang Wei Koh</sub>
+<br><sub> arXiv preprint, 2026 // <a href="https://arxiv.org/pdf/2610.20456">[paper]</a> <a href="https://github.com/IanMagnusson/COUNT">[code]</a> <a href="https://huggingface.co/collections/IanMagnusson/count">[models &amp; data]</a></sub>
+
 ## 2025
 <br><em>Olmo 3</em>
 <br><sub>Olmo Team (including <strong>Ian Magnusson</strong>)</sub>
